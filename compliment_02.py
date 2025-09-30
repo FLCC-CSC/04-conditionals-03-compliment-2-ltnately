@@ -67,7 +67,7 @@ Thank you for playing.
 1. Did you struggle with this lab (YES/NO)?
 NO - simply added an else option to my compliment_01 lab
 
-
+'''
 
 
 
